@@ -1,0 +1,34 @@
+{
+    "peers": [
+      {
+        "name": "gb5-mullvad",
+        "public_key": "PUBLICKEY",
+        "endpoint_address": "ch5-wireguard.relays.mullvad.net:PORT",
+        "allowed_ips": "0.0.0.0/0"
+      },
+      {
+        "name": "denmarketc-mullvad",
+        "public_key": "PUBLICKEY",
+        "endpoint_address": "ch5-wireguard.relays.mullvad.net:PORT",
+        "allowed_ips": "0.0.0.0/0"
+      },
+      {
+        "name": "canada-mullvad",
+        "public_key": "PUBLICKEY",
+        "endpoint_address": "ch5-wireguard.relays.mullvad.net:PORT",
+        "allowed_ips": "0.0.0.0/0"
+      },
+      {
+        "name": "gb5-mullvad",
+        "public_key": "PUBLICKEY",
+        "endpoint_address": "ch5-wireguard.relays.mullvad.net:PORT",
+        "allowed_ips": "0.0.0.0/0"
+      },
+      {
+        "name": "po-mullvad",
+        "public_key": "",
+        "endpoint_address": "pl-waw-wg-101.relays.mullvad.net:PORT",
+        "allowed_ips": "0.0.0.0/0"
+      }
+    ]
+  }
